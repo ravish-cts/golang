@@ -34,4 +34,4 @@ func main() {
 	 fmt.Println("Wait for greeting");
 	} 
 	fmt.Println(Msg);
-}
+} 
